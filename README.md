@@ -27,6 +27,7 @@ This project solves that issue by utilizing **External Hardware Interrupts (`INT
 ---
 
 ##  Connection Guide
+![image alt](https://github.com/annabiju26-alt/Pedestrian-Crossing-Traffic-Controller/blob/86cde88ab587430516db63aa90735beeba976511/pedestrian.png)
 
 Follow this layout schema to wire the traffic lights and the pedestrian switch on a breadboard or simulation environment:
 
